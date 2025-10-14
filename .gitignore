@@ -1,0 +1,8 @@
+# Arquivos de compilação do NS-3 e CMake
+build/
+cmake-cache/
+.cache/
+
+# Arquivos temporários do sistema
+*~
+.DS_Store
