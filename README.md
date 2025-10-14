@@ -7,7 +7,7 @@ Este repositório contém o código-fonte e os resultados do primeiro trabalho p
 ## Estrutura do Repositório
 
 * **/source**: Contém os arquivos de código-fonte em C++ (`.cc`) para cada parte do laboratório.
-* **/results**: Contém resultados do trabalho, como saídas de texto, gráficos, arquivos PCAP e as respostas analíticas, organizados em subpastas por parte.
+* **/results**: Contém resultados do trabalho, como saídas de texto e gráficos, organizados em subpastas por parte.
 
 ## Como Executar o Código
 
